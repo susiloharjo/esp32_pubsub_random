@@ -1,5 +1,10 @@
 #include <Arduino.h>
 
+/*********
+  Eko Susilo Harjo
+  Download code  at https://randomnerdtutorials.com  
+*********/
+
 
 #include <WiFi.h>
 #include <PubSubClient.h>
@@ -7,8 +12,8 @@
 
 
 // Replace the next variables with your SSID/Password combination
-const char* ssid = "ZUMSTAR WIFI";
-const char* password = "GMN_floorzum";
+const char* ssid = "wifi";
+const char* password = "password";
 
 String temp_str; //see last code block below use these to convert the float that you get back from DHT to a string =str
 String hum_str;
