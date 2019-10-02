@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/kembara/.platformio/penv/bin:/home/kembara/.platformio/penv:/home/kembara/.local/bin:/home/kembara/.local/bin:/home/kembara/.local/bin:/home/kembara/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
