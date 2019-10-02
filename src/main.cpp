@@ -2,7 +2,7 @@
 
 /*********
   Eko Susilo Harjo
-  Download code  at https://randomnerdtutorials.com  
+  Download code  at https://github.com/susiloharjo/esp32_pubsub_random
 *********/
 
 
